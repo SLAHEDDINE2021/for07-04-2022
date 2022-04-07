@@ -1,0 +1,8 @@
+15:18:15.203 [TestNG] INFO  resources.base - Driver is initialized
+15:18:25.225 [TestNG] INFO  resources.base - Navigation Bar is displayed
+15:18:25.763 [TestNG] INFO  resources.base - Navigated to Home page
+11:34:33.486 [TestNG] INFO  resources.base - driver is initialized
+11:34:33.640 [TestNG] INFO  resources.base - Driver is initialized
+11:34:45.785 [TestNG] INFO  resources.base - Navigated to Home page
+11:34:53.768 [TestNG] INFO  resources.base - Navigation Bar is displayed
+14:33:43.810 [main] INFO  resources.base - driver is initialized

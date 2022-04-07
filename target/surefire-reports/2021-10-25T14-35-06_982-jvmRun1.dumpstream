@@ -1,0 +1,349 @@
+# Created on 2021-10-25T14:37:53.862
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:386)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created on 2021-10-25T14:37:56.103
+Unexpected IOException with stream: 1
+
+# Created on 2021-10-25T14:37:56.108
+Unexpected IOException with stream: 6
+
+# Created on 2021-10-25T14:37:56.110
+Unexpected IOException with stream: 3
+
+# Created on 2021-10-25T14:37:56.111
+Unexpected IOException with stream: 5
+
+# Created on 2021-10-25T14:37:56.113
+Unexpected IOException with stream: 1
+
+# Created on 2021-10-25T14:37:56.115
+Unexpected IOException with stream: 6
+
+# Created on 2021-10-25T14:37:56.117
+Unexpected IOException with stream: 9
+
+# Created on 2021-10-25T14:37:56.118
+Unexpected IOException with stream: 0
+
+# Created on 2021-10-25T14:37:56.120
+Unexpected IOException with stream: 7
+
+# Created on 2021-10-25T14:37:56.122
+Unexpected IOException with stream: 6
+
+# Created on 2021-10-25T14:37:56.124
+Unexpected IOException with stream: 0
+
+# Created on 2021-10-25T14:37:56.125
+Unexpected IOException with stream: 9
+
+# Created on 2021-10-25T14:37:56.127
+Unexpected IOException with stream: 6
+
+# Created on 2021-10-25T14:37:56.129
+Unexpected IOException with stream: 	
+
+# Created on 2021-10-25T14:37:56.130
+Unexpected IOException with stream: g
+
+# Created on 2021-10-25T14:37:56.130
+Unexpected IOException with stream: e
+
+# Created on 2021-10-25T14:37:56.131
+Unexpected IOException with stream: c
+
+# Created on 2021-10-25T14:37:56.132
+Unexpected IOException with stream: k
+
+# Created on 2021-10-25T14:37:56.133
+Unexpected IOException with stream: o
+
+# Created on 2021-10-25T14:37:56.134
+Unexpected IOException with stream: d
+
+# Created on 2021-10-25T14:37:56.136
+Unexpected IOException with stream: r
+
+# Created on 2021-10-25T14:37:56.138
+Unexpected IOException with stream: i
+
+# Created on 2021-10-25T14:37:56.140
+Unexpected IOException with stream: v
+
+# Created on 2021-10-25T14:37:56.142
+Unexpected IOException with stream: e
+
+# Created on 2021-10-25T14:37:56.144
+Unexpected IOException with stream: r
+
+# Created on 2021-10-25T14:37:56.146
+Unexpected IOException with stream: :
+
+# Created on 2021-10-25T14:37:56.147
+Unexpected IOException with stream: :
+
+# Created on 2021-10-25T14:37:56.149
+Unexpected IOException with stream: m
+
+# Created on 2021-10-25T14:37:56.150
+Unexpected IOException with stream: a
+
+# Created on 2021-10-25T14:37:56.151
+Unexpected IOException with stream: r
+
+# Created on 2021-10-25T14:37:56.153
+Unexpected IOException with stream: i
+
+# Created on 2021-10-25T14:37:56.154
+Unexpected IOException with stream: o
+
+# Created on 2021-10-25T14:37:56.156
+Unexpected IOException with stream: n
+
+# Created on 2021-10-25T14:37:56.159
+Unexpected IOException with stream: e
+
+# Created on 2021-10-25T14:37:56.161
+Unexpected IOException with stream: t
+
+# Created on 2021-10-25T14:37:56.162
+Unexpected IOException with stream: t
+
+# Created on 2021-10-25T14:37:56.164
+Unexpected IOException with stream: e
+
+# Created on 2021-10-25T14:37:56.166
+Unexpected IOException with stream: 	
+
+# Created on 2021-10-25T14:37:56.167
+Unexpected IOException with stream: E
+
+# Created on 2021-10-25T14:37:56.168
+Unexpected IOException with stream: R
+
+# Created on 2021-10-25T14:37:56.169
+Unexpected IOException with stream: R
+
+# Created on 2021-10-25T14:37:56.170
+Unexpected IOException with stream: O
+
+# Created on 2021-10-25T14:37:56.171
+Unexpected IOException with stream: R
+
+# Created on 2021-10-25T14:37:56.172
+Unexpected IOException with stream: 	
+
+# Created on 2021-10-25T14:37:56.172
+Unexpected IOException with stream: F
+
+# Created on 2021-10-25T14:37:56.173
+Unexpected IOException with stream: a
+
+# Created on 2021-10-25T14:37:56.174
+Unexpected IOException with stream: i
+
+# Created on 2021-10-25T14:37:56.175
+Unexpected IOException with stream: l
+
+# Created on 2021-10-25T14:37:56.176
+Unexpected IOException with stream: e
+
+# Created on 2021-10-25T14:37:56.178
+Unexpected IOException with stream: d
+
+# Created on 2021-10-25T14:37:56.179
+Unexpected IOException with stream:  
+
+# Created on 2021-10-25T14:37:56.180
+Unexpected IOException with stream: t
+
+# Created on 2021-10-25T14:37:56.181
+Unexpected IOException with stream: o
+
+# Created on 2021-10-25T14:37:56.182
+Unexpected IOException with stream:  
+
+# Created on 2021-10-25T14:37:56.184
+Unexpected IOException with stream: c
+
+# Created on 2021-10-25T14:37:56.198
+Unexpected IOException with stream: l
+
+# Created on 2021-10-25T14:37:56.200
+Unexpected IOException with stream: o
+
+# Created on 2021-10-25T14:37:56.200
+Unexpected IOException with stream: s
+
+# Created on 2021-10-25T14:37:56.201
+Unexpected IOException with stream: e
+
+# Created on 2021-10-25T14:37:56.202
+Unexpected IOException with stream:  
+
+# Created on 2021-10-25T14:37:56.203
+Unexpected IOException with stream: b
+
+# Created on 2021-10-25T14:37:56.205
+Unexpected IOException with stream: r
+
+# Created on 2021-10-25T14:37:56.207
+Unexpected IOException with stream: o
+
+# Created on 2021-10-25T14:37:56.209
+Unexpected IOException with stream: w
+
+# Created on 2021-10-25T14:37:56.214
+Unexpected IOException with stream: s
+
+# Created on 2021-10-25T14:37:56.215
+Unexpected IOException with stream: e
+
+# Created on 2021-10-25T14:37:56.217
+Unexpected IOException with stream: r
+
+# Created on 2021-10-25T14:37:56.218
+Unexpected IOException with stream:  
+
+# Created on 2021-10-25T14:37:56.219
+Unexpected IOException with stream: c
+
+# Created on 2021-10-25T14:37:56.222
+Unexpected IOException with stream: o
+
+# Created on 2021-10-25T14:37:56.222
+Unexpected IOException with stream: n
+
+# Created on 2021-10-25T14:37:56.223
+Unexpected IOException with stream: n
+
+# Created on 2021-10-25T14:37:56.224
+Unexpected IOException with stream: e
+
+# Created on 2021-10-25T14:37:56.224
+Unexpected IOException with stream: c
+
+# Created on 2021-10-25T14:37:56.225
+Unexpected IOException with stream: t
+
+# Created on 2021-10-25T14:37:56.228
+Unexpected IOException with stream: i
+
+# Created on 2021-10-25T14:37:56.229
+Unexpected IOException with stream: o
+
+# Created on 2021-10-25T14:37:56.230
+Unexpected IOException with stream: n
+
+# Created on 2021-10-25T14:37:56.232
+Unexpected IOException with stream: :
+
+# Created on 2021-10-25T14:37:56.233
+Unexpected IOException with stream:  
+
+# Created on 2021-10-25T14:37:56.234
+Unexpected IOException with stream: A
+
+# Created on 2021-10-25T14:37:56.235
+Unexpected IOException with stream: c
+
+# Created on 2021-10-25T14:37:56.236
+Unexpected IOException with stream: c
+
+# Created on 2021-10-25T14:37:56.237
+Unexpected IOException with stream: Ã
+
+# Created on 2021-10-25T14:37:56.238
+Unexpected IOException with stream: ¨
+
+# Created on 2021-10-25T14:37:56.240
+Unexpected IOException with stream: s
+
+# Created on 2021-10-25T14:37:56.241
+Unexpected IOException with stream:  
+
+# Created on 2021-10-25T14:37:56.241
+Unexpected IOException with stream: r
+
+# Created on 2021-10-25T14:37:56.242
+Unexpected IOException with stream: e
+
+# Created on 2021-10-25T14:37:56.244
+Unexpected IOException with stream: f
+
+# Created on 2021-10-25T14:37:56.246
+Unexpected IOException with stream: u
+
+# Created on 2021-10-25T14:37:56.247
+Unexpected IOException with stream: s
+
+# Created on 2021-10-25T14:37:56.249
+Unexpected IOException: 8,1,Academy.ValidateTittle,ValidationTittle(Academy.ValidateTittle),null,Failed to decode response from marionette\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-86CSM53'\002C ip: '192.168.56.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_231'\000ADriver info: org.openqa.selenium.firefox.FirefoxDriver\000ACapabilities {acceptInsecureCerts: true\002C browserName: firefox\002C browserVersion: 93.0\002C javascriptEnabled: true\002C moz:accessibilityChecks: false\002C moz:buildID: 20210927210923\002C moz:geckodriverVersion: 0.30.0\002C moz:headless: false\002C moz:processID: 2616\002C moz:profile: C:\005CUsers\005CFinance\005CAppData\005CLo...\002C moz:shutdownTimeout: 60000\002C moz:useNonSpecCompliantPointerOrigin: false\002C moz:webdriverClick: true\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C platformVersion: 10.0\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000ASession ID: e555a9d9-520b-4781-b976-fe294d908771,null,Failed to decode response from marionette\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-86CSM53'\002C ip: '192.168.56.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_231'\000ADriver info: org.openqa.selenium.firefox.FirefoxDriver\000ACapabilities {acceptInsecureCerts: true\002C browserName: firefox\002C browserVersion: 93.0\002C javascriptEnabled: true\002C moz:accessibilityChecks: false\002C moz:buildID: 20210927210923\002C moz:geckodriverVersion: 0.30.0\002C moz:headless: false\002C moz:processID: 2616\002C moz:profile: C:\005CUsers\005CFinance\005CAppData\005CLo...\002C moz:shutdownTimeout: 60000\002C moz:useNonSpecCompliantPointerOrigin: false\002C moz:webdriverClick: true\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C platformVersion: 10.0\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000ASession ID: e555a9d9-520b-4781-b976-fe294d908771,ValidateTittle.ValidationTittle:32 \00BB WebDriver Failed to decode response from ...,org.openqa.selenium.WebDriverException: \000AFailed to decode response from marionette\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-86CSM53'\002C ip: '192.168.56.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_231'\000ADriver info: org.openqa.selenium.firefox.FirefoxDriver\000ACapabilities {acceptInsecureCerts: true\002C browserName: firefox\002C browserVersion: 93.0\002C javascriptEnabled: true\002C moz:accessibilityChecks: false\002C moz:buildID: 20210927210923\002C moz:geckodriverVersion: 0.30.0\002C moz:headless: false\002C moz:processID: 2616\002C moz:profile: C:\005CUsers\005CFinance\005CAppData\005CLo...\002C moz:shutdownTimeout: 60000\002C moz:useNonSpecCompliantPointerOrigin: false\002C moz:webdriverClick: true\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C platformVersion: 10.0\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000ASession ID: e555a9d9-520b-4781-b976-fe294d908771\000A\0009at Academy.ValidateTittle.ValidationTittle(ValidateTittle.java:32)\000A
+
+
+# Created on 2021-10-25T14:37:56.251
+Unexpected IOException with stream: Ã
+
+# Created on 2021-10-25T14:37:56.253
+Unexpected IOException with stream: ©
+
+# Created on 2021-10-25T14:37:56.255
+Unexpected IOException with stream: .
+
+# Created on 2021-10-25T14:37:56.256
+Unexpected IOException with stream:  
+
+# Created on 2021-10-25T14:37:56.257
+Unexpected IOException with stream: (
+
+# Created on 2021-10-25T14:37:56.260
+Unexpected IOException with stream: o
+
+# Created on 2021-10-25T14:37:56.261
+Unexpected IOException with stream: s
+
+# Created on 2021-10-25T14:37:56.262
+Unexpected IOException with stream:  
+
+# Created on 2021-10-25T14:37:56.265
+Unexpected IOException with stream: e
+
+# Created on 2021-10-25T14:37:56.267
+Unexpected IOException with stream: r
+
+# Created on 2021-10-25T14:37:56.268
+Unexpected IOException with stream: r
+
+# Created on 2021-10-25T14:37:56.270
+Unexpected IOException with stream: o
+
+# Created on 2021-10-25T14:37:56.271
+Unexpected IOException with stream: r
+
+# Created on 2021-10-25T14:37:56.273
+Unexpected IOException with stream:  
+
+# Created on 2021-10-25T14:37:56.274
+Unexpected IOException with stream: 5
+
+# Created on 2021-10-25T14:37:56.276
+Unexpected IOException with stream: )
+
+# Created on 2021-10-25T14:37:56.278
+Unexpected IOException with stream: 
+
+
+# Created on 2021-10-25T14:37:56.301
+Unexpected IOException: 8,1,Academy.ValidateTittle,ValidationTittle(Academy.ValidateTittle),null,Tried to run command without establishing a connection\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-86CSM53'\002C ip: '192.168.56.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_231'\000ADriver info: org.openqa.selenium.firefox.FirefoxDriver\000ACapabilities {acceptInsecureCerts: true\002C browserName: firefox\002C browserVersion: 93.0\002C javascriptEnabled: true\002C moz:accessibilityChecks: false\002C moz:buildID: 20210927210923\002C moz:geckodriverVersion: 0.30.0\002C moz:headless: false\002C moz:processID: 2616\002C moz:profile: C:\005CUsers\005CFinance\005CAppData\005CLo...\002C moz:shutdownTimeout: 60000\002C moz:useNonSpecCompliantPointerOrigin: false\002C moz:webdriverClick: true\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C platformVersion: 10.0\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000ASession ID: e555a9d9-520b-4781-b976-fe294d908771,null,Tried to run command without establishing a connection\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-86CSM53'\002C ip: '192.168.56.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_231'\000ADriver info: org.openqa.selenium.firefox.FirefoxDriver\000ACapabilities {acceptInsecureCerts: true\002C browserName: firefox\002C browserVersion: 93.0\002C javascriptEnabled: true\002C moz:accessibilityChecks: false\002C moz:buildID: 20210927210923\002C moz:geckodriverVersion: 0.30.0\002C moz:headless: false\002C moz:processID: 2616\002C moz:profile: C:\005CUsers\005CFinance\005CAppData\005CLo...\002C moz:shutdownTimeout: 60000\002C moz:useNonSpecCompliantPointerOrigin: false\002C moz:webdriverClick: true\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C platformVersion: 10.0\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000ASession ID: e555a9d9-520b-4781-b976-fe294d908771,ValidateTittle>base.getScreenShotPath:67 \00BB NoSuchSession Tried to run command ...,org.openqa.selenium.NoSuchSessionException: \000ATried to run command without establishing a connection\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-86CSM53'\002C ip: '192.168.56.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_231'\000ADriver info: org.openqa.selenium.firefox.FirefoxDriver\000ACapabilities {acceptInsecureCerts: true\002C browserName: firefox\002C browserVersion: 93.0\002C javascriptEnabled: true\002C moz:accessibilityChecks: false\002C moz:buildID: 20210927210923\002C moz:geckodriverVersion: 0.30.0\002C moz:headless: false\002C moz:processID: 2616\002C moz:profile: C:\005CUsers\005CFinance\005CAppData\005CLo...\002C moz:shutdownTimeout: 60000\002C moz:useNonSpecCompliantPointerOrigin: false\002C moz:webdriverClick: true\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C platformVersion: 10.0\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000ASession ID: e555a9d9-520b-4781-b976-fe294d908771\000A
+
+
+# Created on 2021-10-25T14:37:56.316
+Unexpected IOException: 8,1,Academy.ValidateTittle,TearDown(Academy.ValidateTittle),null,Tried to run command without establishing a connection\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-86CSM53'\002C ip: '192.168.56.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_231'\000ADriver info: org.openqa.selenium.firefox.FirefoxDriver\000ACapabilities {acceptInsecureCerts: true\002C browserName: firefox\002C browserVersion: 93.0\002C javascriptEnabled: true\002C moz:accessibilityChecks: false\002C moz:buildID: 20210927210923\002C moz:geckodriverVersion: 0.30.0\002C moz:headless: false\002C moz:processID: 2616\002C moz:profile: C:\005CUsers\005CFinance\005CAppData\005CLo...\002C moz:shutdownTimeout: 60000\002C moz:useNonSpecCompliantPointerOrigin: false\002C moz:webdriverClick: true\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C platformVersion: 10.0\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000ASession ID: e555a9d9-520b-4781-b976-fe294d908771,null,Tried to run command without establishing a connection\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-86CSM53'\002C ip: '192.168.56.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_231'\000ADriver info: org.openqa.selenium.firefox.FirefoxDriver\000ACapabilities {acceptInsecureCerts: true\002C browserName: firefox\002C browserVersion: 93.0\002C javascriptEnabled: true\002C moz:accessibilityChecks: false\002C moz:buildID: 20210927210923\002C moz:geckodriverVersion: 0.30.0\002C moz:headless: false\002C moz:processID: 2616\002C moz:profile: C:\005CUsers\005CFinance\005CAppData\005CLo...\002C moz:shutdownTimeout: 60000\002C moz:useNonSpecCompliantPointerOrigin: false\002C moz:webdriverClick: true\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C platformVersion: 10.0\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000ASession ID: e555a9d9-520b-4781-b976-fe294d908771,ValidateTittle.TearDown:42 \00BB NoSuchSession Tried to run command without establ...,org.openqa.selenium.NoSuchSessionException: \000ATried to run command without establishing a connection\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-86CSM53'\002C ip: '192.168.56.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_231'\000ADriver info: org.openqa.selenium.firefox.FirefoxDriver\000ACapabilities {acceptInsecureCerts: true\002C browserName: firefox\002C browserVersion: 93.0\002C javascriptEnabled: true\002C moz:accessibilityChecks: false\002C moz:buildID: 20210927210923\002C moz:geckodriverVersion: 0.30.0\002C moz:headless: false\002C moz:processID: 2616\002C moz:profile: C:\005CUsers\005CFinance\005CAppData\005CLo...\002C moz:shutdownTimeout: 60000\002C moz:useNonSpecCompliantPointerOrigin: false\002C moz:webdriverClick: true\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C platformVersion: 10.0\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000ASession ID: e555a9d9-520b-4781-b976-fe294d908771\000A\0009at Academy.ValidateTittle.TearDown(ValidateTittle.java:42)\000A
+
+
